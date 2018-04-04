@@ -1,5 +1,5 @@
-Flask
-Flask-login
+flask
+flask-login
 Flask-migrate
 Flask-SQLAlchemy
 Flask-Script
