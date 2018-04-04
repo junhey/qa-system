@@ -1,0 +1,14 @@
+Flask
+Flask-login
+Flask-migrate
+Flask-SQLAlchemy
+Flask-Script
+Jinja2
+Mako
+MarkupSafe
+mysqlclient
+SQLAlchemy
+Werkzeug
+alembic
+argparse
+itsdangerous
